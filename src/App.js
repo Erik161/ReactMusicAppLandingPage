@@ -1,8 +1,8 @@
 import './App.css';
 import Experience from './components/Experience';
-import Feature from './components/Feature';
 import Header from './components/Header'
 import Hero from './components/Hero'
+import Search from './components/Search';
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
       <Header/>
       <Hero/>
       <Experience/>
-      
+      <Search/>
     </div>
   );
 }
