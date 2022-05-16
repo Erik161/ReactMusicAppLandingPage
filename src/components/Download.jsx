@@ -1,4 +1,5 @@
 import React from 'react'
+import DownloadAds from './DownloadAds';
 
 function Download() {
   return (
@@ -16,7 +17,10 @@ function Download() {
             Vestibulum ullamcorper volutpat varius.
             </span>
         </div>
-
+        {/* download ads */}
+        <div className="mt-14">
+          <DownloadAds/>
+        </div>
     </div>
   )
 }
