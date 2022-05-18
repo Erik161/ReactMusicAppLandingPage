@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './components/Footer';
 import Download from './components/Download';
 import Experience from './components/Experience';
 import Header from './components/Header'
@@ -14,6 +15,7 @@ function App() {
       <Experience/>
       <Search/>
       <Download/>
+      <Footer/>
     </div>
   );
 }
