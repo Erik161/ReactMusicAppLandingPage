@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactMusicAppLandingPage/static/css/main.72fb4139.css",
+    "main.js": "/ReactMusicAppLandingPage/static/js/main.81fc0ec8.js",
+    "static/media/d1.png": "/ReactMusicAppLandingPage/static/media/d1.e2d1f81fb38e54ad201d.png",
+    "static/media/backgraphics.png": "/ReactMusicAppLandingPage/static/media/backgraphics.e05d8e3687294dad4fdf.png",
+    "static/media/p 1.png": "/ReactMusicAppLandingPage/static/media/p 1.81eb9c2ff77cfe135c80.png",
+    "static/media/d3.png": "/ReactMusicAppLandingPage/static/media/d3.689cacfd46586408bb8b.png",
+    "static/media/d2.png": "/ReactMusicAppLandingPage/static/media/d2.de8b91027c84b8494f78.png",
+    "static/media/d4.png": "/ReactMusicAppLandingPage/static/media/d4.44f5884453e786ce1559.png",
+    "static/media/p 2.png": "/ReactMusicAppLandingPage/static/media/p 2.a3ef04835c64eabead5c.png",
+    "static/media/Mask Group 23.png": "/ReactMusicAppLandingPage/static/media/Mask Group 23.f66074a1141e6b3f9f60.png",
+    "static/media/Group 9.png": "/ReactMusicAppLandingPage/static/media/Group 9.5bccd081c7491a34b65c.png",
+    "static/media/p 3.png": "/ReactMusicAppLandingPage/static/media/p 3.0acd803d6a9d85973098.png",
+    "static/media/Group 4.png": "/ReactMusicAppLandingPage/static/media/Group 4.c418bb2cc86f41b983cc.png",
+    "static/media/Group 2.png": "/ReactMusicAppLandingPage/static/media/Group 2.15c32f9651f4022159d9.png",
+    "static/media/p 4.png": "/ReactMusicAppLandingPage/static/media/p 4.fcc6fc8fbc64a172a475.png",
+    "index.html": "/ReactMusicAppLandingPage/index.html",
+    "main.72fb4139.css.map": "/ReactMusicAppLandingPage/static/css/main.72fb4139.css.map",
+    "main.81fc0ec8.js.map": "/ReactMusicAppLandingPage/static/js/main.81fc0ec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72fb4139.css",
+    "static/js/main.81fc0ec8.js"
+  ]
+}
