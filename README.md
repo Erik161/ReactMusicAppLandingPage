@@ -1,5 +1,5 @@
 
-# ⚛️ REACT Music App Landing Page|framer-motion🔥[:arrow_right: PREVIEW :arrow_left:](https://erik161.github.io/ReactMusicAppLandingPage/) 
+# ⚛️REACT Music App LandingPage|framer-motion🔥[:arrow_right: PREVIEW](https://erik161.github.io/ReactMusicAppLandingPage/) 
 
 
  
